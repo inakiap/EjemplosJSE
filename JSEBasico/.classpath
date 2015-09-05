@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/home/inakiap/workspace-luna/librerias comunes/jdom2-2.0.6.jar"/>
+	<classpathentry kind="lib" path="/home/inakiap/workspace-luna/librerias comunes/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="/home/inakiap/workspace-luna/librerias comunes/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="/home/inakiap/workspace-luna/librerias comunes/jandex-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="/home/inakiap/workspace-luna/librerias comunes/jboss-logging-3.1.3.GA.jar"/>
+	<classpathentry kind="lib" path="/home/inakiap/workspace-luna/librerias comunes/hibernate-core-4.3.10.Final.jar"/>
+	<classpathentry kind="lib" path="/home/inakiap/workspace-luna/librerias comunes/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/inakiap/workspace-luna/librerias comunes/jboss-transaction-api_1.2_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="/home/inakiap/workspace-luna/librerias comunes/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/inakiap/workspace-luna/librerias comunes/hibernate-commons-annotations-4.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="/home/inakiap/workspace-luna/librerias comunes/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/home/inakiap/workspace-luna/librerias comunes/jboss-logging-annotations-1.2.0.Beta1.jar"/>
+	<classpathentry kind="lib" path="/home/inakiap/workspace-luna/librerias comunes/ojdbc14.jar" sourcepath="/home/inakiap/workspace-luna/librerias comunes/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="/home/inakiap/workspace-luna/librerias comunes/log4j-all-1.3alpha-8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
